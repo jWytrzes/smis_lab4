@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documents\\studia\\r3s1\\SMiS\\lab4_Joanna_Wytrzes_160816_F3T_L7\\DroidCafeWithSettings\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\joann\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\071cca0f365ebabb844fe62323f897a4\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
